@@ -1,0 +1,8 @@
+keras==2.2.4
+tensorflow-gpu==1.15
+pytorch
+torchac
+pymatbridge
+matplotlib
+tqdm
+hdf5storage
